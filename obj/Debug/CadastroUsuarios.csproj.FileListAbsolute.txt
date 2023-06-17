@@ -1,0 +1,8 @@
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\bin\Debug\CadastroUsuarios.exe.config
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\bin\Debug\CadastroUsuarios.exe
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\bin\Debug\CadastroUsuarios.pdb
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\obj\Debug\CadastroUsuarios.csproj.AssemblyReference.cache
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\obj\Debug\CadastroUsuarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\obj\Debug\CadastroUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\obj\Debug\CadastroUsuarios.exe
+C:\Users\natan\source\repos\CadastroUsuarios\CadastroUsuarios\obj\Debug\CadastroUsuarios.pdb
